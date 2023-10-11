@@ -1,1 +1,1 @@
-Practising with Bootstrap library.
+Practicing with Bootstrap library.
